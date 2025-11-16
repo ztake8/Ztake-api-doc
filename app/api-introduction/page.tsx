@@ -27,7 +27,7 @@ export default function APIIntroductionPage() {
 
       <p>
         For sales - Submit a form here -{" "}
-        <a href="https://ztake.in/contact">https://pay.ztake.in/contact</a>
+        <a href="https://pay.ztake.in/contact">https://pay.ztake.in/contact</a>
       </p>
 
       <h2 id="easy-navigation">Easy navigation</h2>

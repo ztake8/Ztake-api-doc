@@ -25,16 +25,10 @@ export default function APIIntroductionPage() {
         Reach out to us at <a href="mailto:support@ztake.in">support@ztake.in</a> for any support.
       </p>
 
-      <a
-  href="https://pay.ztake.in/contact"
-  onClick={(e) => {
-    e.stopPropagation();
-    window.location.href = "https://pay.ztake.in/contact";
-  }}
->
-  https://pay.ztake.in/contact
-</a>
-
+      <p>
+        For sales - Submit a form here -{" "}
+        <a href="https://pay.ztake.in/contact">https://pay.ztake.in/contact</a>
+      </p>
 
       <h2 id="easy-navigation">Easy navigation</h2>
 
